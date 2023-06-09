@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma 
 
 ## 💻 Projeto
+[Link](https://murii26.github.io/project-Rockeseat/#) do meu projeto 
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
